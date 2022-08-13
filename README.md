@@ -1,6 +1,11 @@
 # About repo
 
-In this repo I created simple Tic-tac-toe in which I used technologies such as React, Typescript.
+In this repo I created a simple Tic-tac-toe in which I used technologies such as React, Typescript.
+
+## Deploy
+
+Game was deploy on [Heroku](https://www.heroku.com/).\
+See site [here](https://to-do-l1st-redux-react.netlify.app/).
 
 ## Available Scripts
 

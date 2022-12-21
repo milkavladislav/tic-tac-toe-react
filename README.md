@@ -5,7 +5,7 @@ In this repo I created a simple Tic-tac-toe in which I used technologies such as
 ## Deploy
 
 Game was deploy on [Heroku](https://www.heroku.com/).\
-See site [here](https://to-do-l1st-redux-react.netlify.app/).
+See site [here](https://milka-tic-tac-toe.netlify.app/).
 
 ## Available Scripts
 
